@@ -20,7 +20,7 @@ spring:
 #       hibernate:
 #         format_sql: true
 
-env: prd
+env: testt222
 
 # spring:
 #   rabbitmq:
